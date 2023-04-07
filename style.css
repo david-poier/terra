@@ -255,4 +255,7 @@ h1 {
         font-size: x-large;
         margin-left: 10px;
     }
+    body{
+        width: 100%;
+    }
 }
